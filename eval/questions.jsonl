@@ -1,0 +1,50 @@
+{"id": "conge_annuel", "expected": ["Loi 90-11"], "fr": "Combien de jours de congé annuel payé a un salarié ?", "ar": "كم عدد أيام العطلة السنوية المدفوعة الأجر للعامل؟"}
+{"id": "periode_essai", "expected": ["Loi 90-11"], "fr": "Quelle est la durée maximale de la période d'essai d'un nouveau salarié ?", "ar": "ما هي المدة القصوى لفترة تجربة العامل الجديد؟"}
+{"id": "duree_travail", "expected": ["Ordonnance 97-03", "Loi 90-11"], "fr": "Quelle est la durée légale hebdomadaire du travail ?", "ar": "ما هي المدة القانونية الأسبوعية للعمل؟"}
+{"id": "greve", "expected": ["Loi 90-02", "Loi 23-08"], "fr": "Quelles étapes faut-il respecter avant de déclencher une grève ?", "ar": "ما هي الإجراءات الواجب احترامها قبل الشروع في الإضراب؟"}
+{"id": "syndicat", "expected": ["Loi 90-14", "Loi 23-02"], "fr": "Qui peut fonder une organisation syndicale ?", "ar": "من يحق له تأسيس منظمة نقابية؟"}
+{"id": "age_mariage", "expected": ["Loi 84-11", "Ordonnance 05-02"], "fr": "À partir de quel âge peut-on se marier ?", "ar": "ما هو السن القانوني للزواج؟"}
+{"id": "khol", "expected": ["Loi 84-11", "Ordonnance 05-02"], "fr": "Une épouse peut-elle obtenir la séparation sans l'accord de son mari ?", "ar": "هل يمكن للزوجة أن تطلب التفريق دون موافقة زوجها؟"}
+{"id": "garde_enfants", "expected": ["Loi 84-11", "Ordonnance 05-02"], "fr": "À qui revient la garde des enfants après le divorce ?", "ar": "لمن تؤول حضانة الأطفال بعد الطلاق؟"}
+{"id": "majorite", "expected": ["Ordonnance 75-58", "Loi 05-10"], "fr": "À quel âge une personne devient-elle majeure et pleinement capable ?", "ar": "ما هو سن الرشد الذي يصبح فيه الشخص كامل الأهلية؟"}
+{"id": "responsabilite_civile", "expected": ["Ordonnance 75-58", "Loi 05-10"], "fr": "Celui qui cause un dommage à autrui par sa faute doit-il le réparer ?", "ar": "هل يلزم من سبب ضررا للغير بخطئه بالتعويض؟"}
+{"id": "vol", "expected": ["Ordonnance 66-156", "Loi 06-23"], "fr": "Quelle peine encourt l'auteur d'un vol ?", "ar": "ما هي عقوبة السرقة؟"}
+{"id": "garde_a_vue", "expected": ["Ordonnance 66-155", "Ordonnance 15-02", "Loi 01-08"], "fr": "Combien de temps la police peut-elle retenir une personne en garde à vue ?", "ar": "كم تدوم مدة التوقيف للنظر لدى الشرطة القضائية؟"}
+{"id": "sarl_associes", "expected": ["Ordonnance 75-59", "Décret législatif 93-08", "Loi 15-20"], "fr": "Quel est le nombre maximum d'associés dans une société à responsabilité limitée ?", "ar": "ما هو العدد الأقصى للشركاء في الشركة ذات المسؤولية المحدودة؟"}
+{"id": "registre_commerce", "expected": ["Loi 04-08", "Loi 90-22"], "fr": "Faut-il être inscrit au registre du commerce pour exercer une activité commerciale ?", "ar": "هل يجب القيد في السجل التجاري لممارسة نشاط تجاري؟"}
+{"id": "mandat_president", "expected": ["Décret présidentiel 20-442", "Décret présidentiel 96-438", "Loi 16-01", "Loi 08-19", "Décret présidentiel 89-18"], "fr": "Quelle est la durée du mandat du Président de la République ?", "ar": "ما هي مدة العهدة الرئاسية؟"}
+{"id": "association", "expected": ["Loi 12-06", "Loi 90-31"], "fr": "Quelles conditions faut-il remplir pour fonder une association ?", "ar": "ما هي الشروط الواجب توفرها لتأسيس جمعية؟"}
+{"id": "parti_politique", "expected": ["Loi organique 12-04", "Ordonnance 97-09"], "fr": "Qui peut être membre fondateur d'un parti politique ?", "ar": "من يمكنه أن يكون عضوا مؤسسا لحزب سياسي؟"}
+{"id": "naturalisation", "expected": ["Ordonnance 70-86", "Ordonnance 05-01"], "fr": "Quelles sont les conditions pour obtenir la nationalité algérienne par naturalisation ?", "ar": "ما هي شروط التجنس بالجنسية الجزائرية؟"}
+{"id": "declaration_naissance", "expected": ["Ordonnance 70-20", "Loi 14-08"], "fr": "Dans quel délai doit-on déclarer une naissance à l'officier d'état civil ?", "ar": "ما هو أجل التصريح بالولادة لدى ضابط الحالة المدنية؟"}
+{"id": "retraite", "expected": ["Loi 83-12", "Loi 16-15"], "fr": "À quel âge un travailleur peut-il partir à la retraite ?", "ar": "ما هو السن الذي يحق فيه للعامل الإحالة على التقاعد؟"}
+{"id": "accident_travail", "expected": ["Loi 83-13"], "fr": "Qu'est-ce qui est considéré comme un accident du travail ?", "ar": "ما الذي يعتبر حادث عمل؟"}
+{"id": "conge_maternite", "expected": ["Loi 83-11", "Loi 90-11"], "fr": "Quelle est la durée du congé de maternité ?", "ar": "ما هي مدة عطلة الأمومة؟"}
+{"id": "garantie_consommateur", "expected": ["Loi 09-03", "Décret exécutif 13-327"], "fr": "L'acheteur a-t-il droit à une garantie sur le produit qu'il a acheté ?", "ar": "هل للمستهلك الحق في ضمان المنتوج الذي اشتراه؟"}
+{"id": "donnees_personnelles", "expected": ["Loi 18-07"], "fr": "Faut-il le consentement d'une personne pour traiter ses données personnelles ?", "ar": "هل تشترط موافقة الشخص لمعالجة معطياته الشخصية؟"}
+{"id": "declaration_patrimoine", "expected": ["Loi 06-01"], "fr": "Les agents publics doivent-ils déclarer leur patrimoine ?", "ar": "هل يلزم الموظف العمومي بالتصريح بممتلكاته؟"}
+{"id": "permis_construire", "expected": ["Loi 90-29", "Décret exécutif 15-19"], "fr": "Faut-il une autorisation pour construire une maison ?", "ar": "هل يشترط الحصول على رخصة لبناء مسكن؟"}
+{"id": "etrangers", "expected": ["Loi 08-11"], "fr": "Quels documents un étranger doit-il présenter pour entrer en Algérie ?", "ar": "ما هي الوثائق التي يجب على الأجنبي تقديمها لدخول الجزائر؟"}
+{"id": "service_national", "expected": ["Loi 14-06"], "fr": "Quelle est la durée du service national ?", "ar": "ما هي مدة الخدمة الوطنية؟"}
+{"id": "enfant_en_danger", "expected": ["Loi 15-12"], "fr": "Quand considère-t-on qu'un enfant est en danger ?", "ar": "متى يعتبر الطفل في خطر؟"}
+{"id": "sanctions_fonctionnaire", "expected": ["Ordonnance 06-03"], "fr": "Quelles sanctions disciplinaires peut-on infliger à un fonctionnaire ?", "ar": "ما هي العقوبات التأديبية التي يمكن تسليطها على الموظف؟"}
+{"id": "commerce_electronique", "expected": ["Loi 18-05"], "fr": "Quelles informations un vendeur en ligne doit-il communiquer à ses clients ?", "ar": "ما هي المعلومات التي يجب على المورد الإلكتروني تقديمها لزبائنه؟"}
+{"id": "marque", "expected": ["Ordonnance 03-06"], "fr": "Pendant combien de temps une marque enregistrée est-elle protégée ?", "ar": "كم تدوم مدة حماية العلامة المسجلة؟"}
+{"id": "brevet", "expected": ["Ordonnance 03-07"], "fr": "Combien de temps dure la protection d'un brevet d'invention ?", "ar": "كم تدوم مدة حماية براءة الاختراع؟"}
+{"id": "droit_auteur", "expected": ["Ordonnance 03-05"], "fr": "Combien de temps les droits d'un auteur restent-ils protégés après son décès ?", "ar": "كم تدوم حماية حقوق المؤلف بعد وفاته؟"}
+{"id": "ententes", "expected": ["Ordonnance 03-03"], "fr": "Les accords entre entreprises pour fixer les prix sont-ils interdits ?", "ar": "هل تمنع الاتفاقات بين المؤسسات لتحديد الأسعار؟"}
+{"id": "president_apc", "expected": ["Loi 11-10", "Ordonnance 21-01"], "fr": "Comment est désigné le président de l'assemblée populaire communale ?", "ar": "كيف يتم اختيار رئيس المجلس الشعبي البلدي؟"}
+{"id": "stupefiants", "expected": ["Loi 04-18"], "fr": "Quelle peine encourt une personne qui consomme de la drogue ?", "ar": "ما هي عقوبة استهلاك المخدرات؟"}
+{"id": "soins_gratuits", "expected": ["Loi 18-11"], "fr": "Les soins sont-ils gratuits dans les hôpitaux publics ?", "ar": "هل العلاج مجاني في المستشفيات العمومية؟"}
+{"id": "delai_appel", "expected": ["Loi 08-09"], "fr": "De combien de temps dispose-t-on pour faire appel d'un jugement civil ?", "ar": "ما هو أجل استئناف حكم مدني؟"}
+{"id": "signature_electronique", "expected": ["Loi 15-04"], "fr": "Une signature électronique a-t-elle la même valeur qu'une signature manuscrite ?", "ar": "هل للتوقيع الإلكتروني نفس حجية التوقيع المكتوب؟"}
+{"id": "garanties_investisseur", "expected": ["Loi 22-18", "Loi 16-09", "Ordonnance 01-03"], "fr": "Quelles garanties la loi donne-t-elle aux investisseurs étrangers ?", "ar": "ما هي الضمانات التي يمنحها القانون للمستثمرين الأجانب؟"}
+{"id": "ceinture_securite", "expected": ["Loi 01-14"], "fr": "Le port de la ceinture de sécurité est-il obligatoire en voiture ?", "ar": "هل وضع حزام الأمن إجباري في السيارة؟"}
+{"id": "discours_haine", "expected": ["Loi 20-05"], "fr": "Comment la loi punit-elle les propos haineux ?", "ar": "كيف يعاقب القانون على خطاب الكراهية؟"}
+{"id": "age_vote", "expected": ["Ordonnance 21-01", "Loi organique 16-10"], "fr": "À partir de quel âge peut-on voter ?", "ar": "ما هو السن القانوني للتصويت في الانتخابات؟"}
+{"id": "assurance_auto", "expected": ["Ordonnance 74-15"], "fr": "Est-on obligé d'assurer sa voiture ?", "ar": "هل التأمين على السيارة إجباري؟"}
+{"id": "wakf", "expected": ["Loi 91-10"], "fr": "Qu'est-ce qu'un bien wakf ?", "ar": "ما هو تعريف الوقف؟"}
+{"id": "emploi_handicapes", "expected": ["Loi 02-09"], "fr": "Les employeurs doivent-ils réserver des postes aux personnes handicapées ?", "ar": "هل يلزم المستخدمون بتخصيص مناصب عمل للأشخاص المعوقين؟"}
+{"id": "scolarite_obligatoire", "expected": ["Loi 08-04"], "fr": "L'école est-elle obligatoire, et jusqu'à quel âge ?", "ar": "هل التعليم إجباري وإلى أي سن؟"}
+{"id": "blanchiment", "expected": ["Loi 05-01"], "fr": "Que doivent faire les banques face à une opération financière suspecte ?", "ar": "ماذا يجب على البنوك فعله عند الاشتباه في عملية مالية؟"}
+{"id": "etude_impact", "expected": ["Loi 03-10"], "fr": "Une étude d'impact sur l'environnement est-elle exigée avant un projet industriel ?", "ar": "هل تشترط دراسة التأثير على البيئة قبل إنجاز مشروع صناعي؟"}

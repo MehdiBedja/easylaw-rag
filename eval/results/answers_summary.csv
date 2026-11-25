@@ -1,0 +1,3 @@
+lang,answers,retrieved_expected,cites_expected,median_seconds,judged_gemini,grounded_gemini,responsive_gemini,abstained_gemini,all_three_gemini,judged_independent,grounded_independent,responsive_independent,abstained_independent,all_three_independent
+ar,30,0.8333333333333334,0.8,14.55,30,1.0,1.0,0.0,0.8,29,1.0,0.9655172413793104,0.0,0.7586206896551724
+fr,28,0.9285714285714286,0.8928571428571429,13.5,28,1.0,1.0,0.03571428571428571,0.8928571428571429,24,0.9583333333333334,1.0,0.041666666666666664,0.875

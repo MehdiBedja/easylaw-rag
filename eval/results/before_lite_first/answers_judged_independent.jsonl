@@ -1,0 +1,50 @@
+{"id": "duree_travail", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "duree_travail", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "greve", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "greve", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "syndicat", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "partiel", "abstained": false, "problem": "La réponse ne mentionne pas les conditions collectives (nombre minimal de fondateurs, répartition territoriale) introduites par la loi 23-02, bien que cette loi soit fournie dans les sources."}
+{"id": "syndicat", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "khol", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "khol", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "majorite", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "partiel", "abstained": true, "problem": "L'âge de la majorité n'est pas indiqué dans les sources fournies."}
+{"id": "majorite", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "responsabilite_civile", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "responsabilite_civile", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "vol", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "vol", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "partiel", "responsive": "oui", "abstained": false, "problem": "Erreur sur l'article des peines complémentaires pour le vol simple (art. 14 cité au lieu de l'art. 18 dans la source) et sur la peine originale de l'art. 352 (5-10 ans indiqués au lieu de 10-20 ans avec circonstance aggravante selon la source)."}
+{"id": "registre_commerce", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "registre_commerce", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "parti_politique", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "parti_politique", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "naturalisation", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "naturalisation", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "declaration_naissance", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "partiel", "responsive": "oui", "abstained": false, "problem": "Le délai de prorogation pour les wilayas de la Saoura et des Oasis et les pays étrangers est donné comme 20 jours en citant la source [2], mais la source [1] mentionne une prorogation de 10 jours pour ces territoires, tandis que la source [2] fixe 20 jours pour les wilayas du Sud sans les nommer explicitement."}
+{"id": "declaration_naissance", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "retraite", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "partiel", "abstained": false, "problem": "La réponse omet les dispositions de retraite anticipée proportionnelle (âge 50 ans avec 20 ans de cotisations, réduit à 45 ans pour les femmes) prévues à l'article 10 de la loi 83-12 (source 3)."}
+{"id": "retraite", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "conge_maternite", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "conge_maternite", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "garantie_consommateur", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "garantie_consommateur", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "declaration_patrimoine", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "declaration_patrimoine", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "permis_construire", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "permis_construire", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "etrangers", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "etrangers", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "sanctions_fonctionnaire", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "sanctions_fonctionnaire", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "partiel", "responsive": "oui", "abstained": false, "problem": "La source [6] (sécurité nationale) ne prévoit pas le transfert forcé dans le 3e degré, bien que d'autres sources le fassent."}
+{"id": "commerce_electronique", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "commerce_electronique", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "marque", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "marque", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "brevet", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "brevet", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "president_apc", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "president_apc", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "soins_gratuits", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "soins_gratuits", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "signature_electronique", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "signature_electronique", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "ceinture_securite", "lang": "fr", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}
+{"id": "ceinture_securite", "lang": "ar", "judge": "nvidia/nemotron-3-ultra-550b-a55b:free", "grounded": "oui", "responsive": "oui", "abstained": false, "problem": ""}

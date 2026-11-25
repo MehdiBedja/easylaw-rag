@@ -1,0 +1,101 @@
+﻿id,lang,question,expected,rank_hybrid,rank_reranked,top_text,seconds
+conge_annuel,fr,Combien de jours de congé annuel payé a un salarié ?,Loi 90-11,6.0,1.0,"Loi n° 90-11 du 21 Avril 1990, Journal officiel n° 17 de 1990, p. 488",13.9
+conge_annuel,ar,كم عدد أيام العطلة السنوية المدفوعة الأجر للعامل؟,Loi 90-11,12.0,7.0,مرسوم رئاسي رقم 23-143 مؤرخ في 27 مارس 2023، الجريدة الرسمية عدد 22 لسنة 2023، ص 6,12.1
+periode_essai,fr,Quelle est la durée maximale de la période d'essai d'un nouveau salarié ?,Loi 90-11,2.0,3.0,"Décret exécutif n° 89-119 du 11 Juillet 1989, Journal officiel n° 28 de 1989, p. 628",12.0
+periode_essai,ar,ما هي المدة القصوى لفترة تجربة العامل الجديد؟,Loi 90-11,26.0,2.0,قانون رقم 78-12 مؤرخ في 5 غشت 1978، الجريدة الرسمية عدد 32 لسنة 1978، ص 724,13.5
+duree_travail,fr,Quelle est la durée légale hebdomadaire du travail ?,"Ordonnance 97-03, Loi 90-11",6.0,4.0,"Décret présidentiel n° 18-145 du 27 Mai 2018, Journal officiel n° 31 de 2018, p. 9",10.8
+duree_travail,ar,ما هي المدة القانونية الأسبوعية للعمل؟,"Ordonnance 97-03, Loi 90-11",1.0,1.0,أمر رقم 97-03 مؤرخ في 11 يناير 1997، الجريدة الرسمية عدد 3 لسنة 1997، ص 7,9.5
+greve,fr,Quelles étapes faut-il respecter avant de déclencher une grève ?,"Loi 90-02, Loi 23-08",1.0,1.0,"Loi n° 23-08 du 21 Juin 2023, Journal officiel n° 42 de 2023, p. 13",11.7
+greve,ar,ما هي الإجراءات الواجب احترامها قبل الشروع في الإضراب؟,"Loi 90-02, Loi 23-08",1.0,1.0,قانون رقم 23-08 مؤرخ في 21 يونيو 2023، الجريدة الرسمية عدد 42 لسنة 2023، ص 13,12.8
+syndicat,fr,Qui peut fonder une organisation syndicale ?,"Loi 90-14, Loi 23-02",1.0,1.0,"Loi n° 90-14 du 02 Juin 1990, Journal officiel n° 23 de 1990, p. 663",9.0
+syndicat,ar,من يحق له تأسيس منظمة نقابية؟,"Loi 90-14, Loi 23-02",1.0,1.0,قانون رقم 23-02 مؤرخ في 25 أبريل 2023، الجريدة الرسمية عدد 29 لسنة 2023، ص 3,10.9
+age_mariage,fr,À partir de quel âge peut-on se marier ?,"Loi 84-11, Ordonnance 05-02",5.0,2.0,"Loi n° 63-224 du 29 Juin 1963, Journal officiel n° 44 de 1963, p. 680",11.9
+age_mariage,ar,ما هو السن القانوني للزواج؟,"Loi 84-11, Ordonnance 05-02",1.0,1.0,قانون رقم 84-11 مؤرخ في 9 يونيو 1984، الجريدة الرسمية عدد 24 لسنة 1984، ص 910,12.4
+khol,fr,Une épouse peut-elle obtenir la séparation sans l'accord de son mari ?,"Loi 84-11, Ordonnance 05-02",1.0,1.0,"Ordonnance n° 05-02 du 27 Février 2005, Journal officiel n° 15 de 2005, p. 17",12.3
+khol,ar,هل يمكن للزوجة أن تطلب التفريق دون موافقة زوجها؟,"Loi 84-11, Ordonnance 05-02",5.0,1.0,أمر رقم 05-02 مؤرخ في 27 فبراير 2005، الجريدة الرسمية عدد 15 لسنة 2005، ص 18,12.9
+garde_enfants,fr,À qui revient la garde des enfants après le divorce ?,"Loi 84-11, Ordonnance 05-02",2.0,1.0,"Ordonnance n° 05-02 du 27 Février 2005, Journal officiel n° 15 de 2005, p. 17",11.7
+garde_enfants,ar,لمن تؤول حضانة الأطفال بعد الطلاق؟,"Loi 84-11, Ordonnance 05-02",1.0,1.0,أمر رقم 05-02 مؤرخ في 27 فبراير 2005، الجريدة الرسمية عدد 15 لسنة 2005، ص 18,12.4
+majorite,fr,À quel âge une personne devient-elle majeure et pleinement capable ?,"Ordonnance 75-58, Loi 05-10",1.0,1.0,"Loi n° 05-10 du 20 Juin 2005, Journal officiel n° 44 de 2005, p. 14",11.2
+majorite,ar,ما هو سن الرشد الذي يصبح فيه الشخص كامل الأهلية؟,"Ordonnance 75-58, Loi 05-10",1.0,1.0,أمر رقم 75-58 مؤرخ في 26 سبتمبر 1975، الجريدة الرسمية عدد 78 لسنة 1975، ص 990,12.1
+responsabilite_civile,fr,Celui qui cause un dommage à autrui par sa faute doit-il le réparer ?,"Ordonnance 75-58, Loi 05-10",1.0,1.0,"Loi n° 05-10 du 20 Juin 2005, Journal officiel n° 44 de 2005, p. 14",12.2
+responsabilite_civile,ar,هل يلزم من سبب ضررا للغير بخطئه بالتعويض؟,"Ordonnance 75-58, Loi 05-10",1.0,1.0,قانون رقم 05-10 مؤرخ في 20 يونيو 2005، الجريدة الرسمية عدد 44 لسنة 2005، ص 17,12.6
+vol,fr,Quelle peine encourt l'auteur d'un vol ?,"Ordonnance 66-156, Loi 06-23",1.0,1.0,"Loi n° 06-23 du 20 Décembre 2006, Journal officiel n° 84 de 2006, p. 10",12.3
+vol,ar,ما هي عقوبة السرقة؟,"Ordonnance 66-156, Loi 06-23",1.0,1.0,أمر رقم 66-156 مؤرخ في 8 يونيو 1966، الجريدة الرسمية عدد 49 لسنة 1966، ص 702,12.3
+garde_a_vue,fr,Combien de temps la police peut-elle retenir une personne en garde à vue ?,"Ordonnance 66-155, Ordonnance 15-02, Loi 01-08",1.0,2.0,"Loi n° 06-22 du 20 Décembre 2006, Journal officiel n° 84 de 2006, p. 4",12.5
+garde_a_vue,ar,كم تدوم مدة التوقيف للنظر لدى الشرطة القضائية؟,"Ordonnance 66-155, Ordonnance 15-02, Loi 01-08",3.0,2.0,قانون رقم 06-22 مؤرخ في 20 ديسمبر 2006، الجريدة الرسمية عدد 84 لسنة 2006، ص 4,12.2
+sarl_associes,fr,Quel est le nombre maximum d'associés dans une société à responsabilité limitée ?,"Ordonnance 75-59, Décret législatif 93-08, Loi 15-20",1.0,1.0,"Loi n° 15-20 du 30 Décembre 2015, Journal officiel n° 71 de 2015, p. 4",11.7
+sarl_associes,ar,ما هو العدد الأقصى للشركاء في الشركة ذات المسؤولية المحدودة؟,"Ordonnance 75-59, Décret législatif 93-08, Loi 15-20",1.0,1.0,أمر رقم 75-59 مؤرخ في 26 سبتمبر 1975، الجريدة الرسمية عدد 101 لسنة 1975، ص 1306,12.7
+registre_commerce,fr,Faut-il être inscrit au registre du commerce pour exercer une activité commerciale ?,"Loi 04-08, Loi 90-22",1.0,1.0,"Loi n° 04-08 du 14 Août 2004, Journal officiel n° 52 de 2004, p. 4",11.8
+registre_commerce,ar,هل يجب القيد في السجل التجاري لممارسة نشاط تجاري؟,"Loi 04-08, Loi 90-22",1.0,1.0,قانون رقم 04-08 مؤرخ في 14 غشت 2004، الجريدة الرسمية عدد 52 لسنة 2004، ص 4,12.5
+mandat_president,fr,Quelle est la durée du mandat du Président de la République ?,"Décret présidentiel 20-442, Décret présidentiel 96-438, Loi 16-01, Loi 08-19, Décret présidentiel 89-18",1.0,2.0,"Décret présidentiel n° 20-251 du 15 Septembre 2020, Journal officiel n° 54 de 2020, p. 3",11.8
+mandat_president,ar,ما هي مدة العهدة الرئاسية؟,"Décret présidentiel 20-442, Décret présidentiel 96-438, Loi 16-01, Loi 08-19, Décret présidentiel 89-18",2.0,2.0,مرسوم رئاسي رقم 20-251 مؤرخ في 15 سبتمبر 2020، الجريدة الرسمية عدد 54 لسنة 2020، ص 3,12.3
+association,fr,Quelles conditions faut-il remplir pour fonder une association ?,"Loi 12-06, Loi 90-31",2.0,2.0,"Ordonnance n° 71-79 du 03 Décembre 1971, Journal officiel n° 105 de 1971, p. 1410",12.6
+association,ar,ما هي الشروط الواجب توفرها لتأسيس جمعية؟,"Loi 12-06, Loi 90-31",1.0,1.0,قانون رقم 90-31 مؤرخ في 4 ديسمبر 1990، الجريدة الرسمية عدد 53 لسنة 1990، ص 1686,11.7
+parti_politique,fr,Qui peut être membre fondateur d'un parti politique ?,"Loi organique 12-04, Ordonnance 97-09",1.0,1.0,"Ordonnance n° 97-09 du 06 Mars 1997, Journal officiel n° 12 de 1997, p. 24",11.2
+parti_politique,ar,من يمكنه أن يكون عضوا مؤسسا لحزب سياسي؟,"Loi organique 12-04, Ordonnance 97-09",1.0,1.0,أمر رقم 97-09 مؤرخ في 6 مارس 1997، الجريدة الرسمية عدد 12 لسنة 1997، ص 30,13.0
+naturalisation,fr,Quelles sont les conditions pour obtenir la nationalité algérienne par naturalisation ?,"Ordonnance 70-86, Ordonnance 05-01",1.0,1.0,"Ordonnance n° 70-86 du 15 Décembre 1970, Journal officiel n° 105 de 1970, p. 1202",12.2
+naturalisation,ar,ما هي شروط التجنس بالجنسية الجزائرية؟,"Ordonnance 70-86, Ordonnance 05-01",25.0,7.0,مرسوم رئاسي رقم 20-251 مؤرخ في 15 سبتمبر 2020، الجريدة الرسمية عدد 54 لسنة 2020، ص 3,13.9
+declaration_naissance,fr,Dans quel délai doit-on déclarer une naissance à l'officier d'état civil ?,"Ordonnance 70-20, Loi 14-08",1.0,1.0,"Ordonnance n° 70-20 du 19 Février 1970, Journal officiel n° 21 de 1970, p. 233",12.0
+declaration_naissance,ar,ما هو أجل التصريح بالولادة لدى ضابط الحالة المدنية؟,"Ordonnance 70-20, Loi 14-08",1.0,1.0,أمر رقم 70-20 مؤرخ في 19 فبراير 1970، الجريدة الرسمية عدد 21 لسنة 1970، ص 274,12.9
+retraite,fr,À quel âge un travailleur peut-il partir à la retraite ?,"Loi 83-12, Loi 16-15",1.0,1.0,"Loi n° 16-15 du 31 Décembre 2016, Journal officiel n° 78 de 2016, p. 3",10.9
+retraite,ar,ما هو السن الذي يحق فيه للعامل الإحالة على التقاعد؟,"Loi 83-12, Loi 16-15",4.0,2.0,مرسوم تنفيذي رقم 20-107 مؤرخ في 30 أبريل 2020، الجريدة الرسمية عدد 27 لسنة 2020، ص 4,12.4
+accident_travail,fr,Qu'est-ce qui est considéré comme un accident du travail ?,Loi 83-13,1.0,1.0,"Loi n° 83-13 du 02 Juillet 1983, Journal officiel n° 28 de 1983, p. 1210",11.9
+accident_travail,ar,ما الذي يعتبر حادث عمل؟,Loi 83-13,2.0,3.0,أمر رقم 66-183 مؤرخ في 21 يونيو 1966، الجريدة الرسمية عدد 55 لسنة 1966، ص 837,12.7
+conge_maternite,fr,Quelle est la durée du congé de maternité ?,"Loi 83-11, Loi 90-11",16.0,19.0,"Décret n° 66-135 du 02 Juin 1966, Journal officiel n° 46 de 1966, p. 434",11.9
+conge_maternite,ar,ما هي مدة عطلة الأمومة؟,"Loi 83-11, Loi 90-11",20.0,17.0,مرسوم رقم 66-135 مؤرخ في 2 يونيو 1966، الجريدة الرسمية عدد 46 لسنة 1966، ص 555,12.6
+garantie_consommateur,fr,L'acheteur a-t-il droit à une garantie sur le produit qu'il a acheté ?,"Loi 09-03, Décret exécutif 13-327",1.0,1.0,"Loi n° 09-03 du 25 Février 2009, Journal officiel n° 15 de 2009, p. 10",10.9
+garantie_consommateur,ar,هل للمستهلك الحق في ضمان المنتوج الذي اشتراه؟,"Loi 09-03, Décret exécutif 13-327",3.0,2.0,قانون رقم 89-02 مؤرخ في 7 فبراير 1989، الجريدة الرسمية عدد 6 لسنة 1989، ص 154,12.5
+donnees_personnelles,fr,Faut-il le consentement d'une personne pour traiter ses données personnelles ?,Loi 18-07,1.0,1.0,"Loi n° 18-07 du 10 Juin 2018, Journal officiel n° 34 de 2018, p. 10",11.2
+donnees_personnelles,ar,هل تشترط موافقة الشخص لمعالجة معطياته الشخصية؟,Loi 18-07,1.0,1.0,قانون رقم 18-07 مؤرخ في 10 يونيو 2018، الجريدة الرسمية عدد 34 لسنة 2018، ص 11,12.8
+declaration_patrimoine,fr,Les agents publics doivent-ils déclarer leur patrimoine ?,Loi 06-01,1.0,1.0,"Loi n° 06-01 du 20 Février 2006, Journal officiel n° 14 de 2006, p. 4",11.1
+declaration_patrimoine,ar,هل يلزم الموظف العمومي بالتصريح بممتلكاته؟,Loi 06-01,3.0,1.0,قانون رقم 06-01 مؤرخ في 20 فبراير 2006، الجريدة الرسمية عدد 14 لسنة 2006، ص 4,14.2
+permis_construire,fr,Faut-il une autorisation pour construire une maison ?,"Loi 90-29, Décret exécutif 15-19",3.0,7.0,"Arrêté du 08 Septembre 1982, Journal officiel n° 41 de 1982, p. 1312",11.8
+permis_construire,ar,هل يشترط الحصول على رخصة لبناء مسكن؟,"Loi 90-29, Décret exécutif 15-19",3.0,11.0,أمر رقم 75-67 مؤرخ في 26 سبتمبر 1975، الجريدة الرسمية عدد 83 لسنة 1975، ص 1106,12.6
+etrangers,fr,Quels documents un étranger doit-il présenter pour entrer en Algérie ?,Loi 08-11,1.0,1.0,"Loi n° 08-11 du 25 Juin 2008, Journal officiel n° 36 de 2008, p. 4",11.7
+etrangers,ar,ما هي الوثائق التي يجب على الأجنبي تقديمها لدخول الجزائر؟,Loi 08-11,4.0,1.0,قانون رقم 08-11 مؤرخ في 25 يونيو 2008، الجريدة الرسمية عدد 36 لسنة 2008، ص 4,12.5
+service_national,fr,Quelle est la durée du service national ?,Loi 14-06,1.0,1.0,"Loi n° 14-06 du 09 Août 2014, Journal officiel n° 48 de 2014, p. 4",9.4
+service_national,ar,ما هي مدة الخدمة الوطنية؟,Loi 14-06,2.0,2.0,أمر رقم 74-103 مؤرخ في 15 نوفمبر 1974، الجريدة الرسمية عدد 99 لسنة 1974، ص 1252,10.2
+enfant_en_danger,fr,Quand considère-t-on qu'un enfant est en danger ?,Loi 15-12,1.0,1.0,"Loi n° 15-12 du 15 Juillet 2015, Journal officiel n° 39 de 2015, p. 4",11.7
+enfant_en_danger,ar,متى يعتبر الطفل في خطر؟,Loi 15-12,2.0,1.0,قانون رقم 15-12 مؤرخ في 15 يوليو 2015، الجريدة الرسمية عدد 39 لسنة 2015، ص 4,11.2
+sanctions_fonctionnaire,fr,Quelles sanctions disciplinaires peut-on infliger à un fonctionnaire ?,Ordonnance 06-03,3.0,3.0,"Résolution du 11 Mars 2010, Journal officiel n° 37 de 2010, p. 15",11.5
+sanctions_fonctionnaire,ar,ما هي العقوبات التأديبية التي يمكن تسليطها على الموظف؟,Ordonnance 06-03,5.0,4.0,قانون عضوي رقم 11-12 مؤرخ في 26 يوليو 2011، الجريدة الرسمية عدد 42 لسنة 2011، ص 7,11.9
+commerce_electronique,fr,Quelles informations un vendeur en ligne doit-il communiquer à ses clients ?,Loi 18-05,3.0,4.0,"Loi n° 04-02 du 23 Juin 2004, Journal officiel n° 41 de 2004, p. 3",12.0
+commerce_electronique,ar,ما هي المعلومات التي يجب على المورد الإلكتروني تقديمها لزبائنه؟,Loi 18-05,1.0,1.0,قانون رقم 18-05 مؤرخ في 10 مايو 2018، الجريدة الرسمية عدد 28 لسنة 2018، ص 4,11.8
+marque,fr,Pendant combien de temps une marque enregistrée est-elle protégée ?,Ordonnance 03-06,1.0,1.0,"Ordonnance n° 03-06 du 19 Juillet 2003, Journal officiel n° 44 de 2003, p. 18",11.1
+marque,ar,كم تدوم مدة حماية العلامة المسجلة؟,Ordonnance 03-06,1.0,1.0,أمر رقم 03-06 مؤرخ في 19 يوليو 2003، الجريدة الرسمية عدد 44 لسنة 2003، ص 22,13.1
+brevet,fr,Combien de temps dure la protection d'un brevet d'invention ?,Ordonnance 03-07,2.0,2.0,"Décret législatif n° 93-17 du 07 Décembre 1993, Journal officiel n° 81 de 1993, p. 4",10.7
+brevet,ar,كم تدوم مدة حماية براءة الاختراع؟,Ordonnance 03-07,2.0,2.0,مرسوم تشريعي رقم 93-17 مؤرخ في 7 ديسمبر 1993، الجريدة الرسمية عدد 81 لسنة 1993، ص 4,11.3
+droit_auteur,fr,Combien de temps les droits d'un auteur restent-ils protégés après son décès ?,Ordonnance 03-05,1.0,1.0,"Ordonnance n° 03-05 du 19 Juillet 2003, Journal officiel n° 44 de 2003, p. 3",12.2
+droit_auteur,ar,كم تدوم حماية حقوق المؤلف بعد وفاته؟,Ordonnance 03-05,4.0,3.0,أمر رقم 97-10 مؤرخ في 6 مارس 1997، الجريدة الرسمية عدد 13 لسنة 1997، ص 3,12.2
+ententes,fr,Les accords entre entreprises pour fixer les prix sont-ils interdits ?,Ordonnance 03-03,2.0,1.0,"Ordonnance n° 03-03 du 19 Juillet 2003, Journal officiel n° 43 de 2003, p. 21",12.0
+ententes,ar,هل تمنع الاتفاقات بين المؤسسات لتحديد الأسعار؟,Ordonnance 03-03,2.0,2.0,أمر رقم 95-06 مؤرخ في 25 يناير 1995، الجريدة الرسمية عدد 9 لسنة 1995، ص 13,12.6
+president_apc,fr,Comment est désigné le président de l'assemblée populaire communale ?,"Loi 11-10, Ordonnance 21-01",1.0,2.0,"Loi organique n° 12-01 du 12 Janvier 2012, Journal officiel n° 1 de 2012, p. 8",11.5
+president_apc,ar,كيف يتم اختيار رئيس المجلس الشعبي البلدي؟,"Loi 11-10, Ordonnance 21-01",1.0,2.0,قانون رقم 90-08 مؤرخ في 7 أبريل 1990، الجريدة الرسمية عدد 15 لسنة 1990، ص 488,11.0
+stupefiants,fr,Quelle peine encourt une personne qui consomme de la drogue ?,Loi 04-18,1.0,1.0,"Loi n° 04-18 du 25 Décembre 2004, Journal officiel n° 83 de 2004, p. 3",11.5
+stupefiants,ar,ما هي عقوبة استهلاك المخدرات؟,Loi 04-18,3.0,1.0,قانون رقم 04-18 مؤرخ في 25 ديسمبر 2004، الجريدة الرسمية عدد 83 لسنة 2004، ص 3,12.7
+soins_gratuits,fr,Les soins sont-ils gratuits dans les hôpitaux publics ?,Loi 18-11,3.0,5.0,"Décret n° 66-70 du 04 Avril 1966, Journal officiel n° 27 de 1966, p. 265",11.1
+soins_gratuits,ar,هل العلاج مجاني في المستشفيات العمومية؟,Loi 18-11,28.0,22.0,مرسوم تنفيذي رقم 92-457 مؤرخ في 12 ديسمبر 1992، الجريدة الرسمية عدد 89 لسنة 1992، ص 2275,13.3
+delai_appel,fr,De combien de temps dispose-t-on pour faire appel d'un jugement civil ?,Loi 08-09,2.0,1.0,"Loi n° 08-09 du 25 Février 2008, Journal officiel n° 21 de 2008, p. 3",12.4
+delai_appel,ar,ما هو أجل استئناف حكم مدني؟,Loi 08-09,1.0,1.0,قانون رقم 08-09 مؤرخ في 25 فبراير 2008، الجريدة الرسمية عدد 21 لسنة 2008، ص 3,11.6
+signature_electronique,fr,Une signature électronique a-t-elle la même valeur qu'une signature manuscrite ?,Loi 15-04,1.0,1.0,"Loi n° 15-04 du 01 Février 2015, Journal officiel n° 6 de 2015, p. 6",9.6
+signature_electronique,ar,هل للتوقيع الإلكتروني نفس حجية التوقيع المكتوب؟,Loi 15-04,1.0,1.0,قانون رقم 15-04 مؤرخ في 1 فبراير 2015، الجريدة الرسمية عدد 6 لسنة 2015، ص 6,12.5
+garanties_investisseur,fr,Quelles garanties la loi donne-t-elle aux investisseurs étrangers ?,"Loi 22-18, Loi 16-09, Ordonnance 01-03",3.0,2.0,"Avis du 30 Octobre 2003, Journal officiel n° 72 de 2004, p. 18",11.0
+garanties_investisseur,ar,ما هي الضمانات التي يمنحها القانون للمستثمرين الأجانب؟,"Loi 22-18, Loi 16-09, Ordonnance 01-03",3.0,2.0,مرسوم رئاسي رقم 94-01 مؤرخ في 2 يناير 1994، الجريدة الرسمية عدد 1 لسنة 1994، ص 4,13.0
+ceinture_securite,fr,Le port de la ceinture de sécurité est-il obligatoire en voiture ?,Loi 01-14,6.0,5.0,"Loi n° 17-05 du 16 Février 2017, Journal officiel n° 12 de 2017, p. 3",11.8
+ceinture_securite,ar,هل وضع حزام الأمن إجباري في السيارة؟,Loi 01-14,,,قانون رقم 17-05 مؤرخ في 16 فبراير 2017، الجريدة الرسمية عدد 12 لسنة 2017، ص 3,13.7
+discours_haine,fr,Comment la loi punit-elle les propos haineux ?,Loi 20-05,2.0,1.0,"Loi n° 20-05 du 28 Avril 2020, Journal officiel n° 25 de 2020, p. 4",11.7
+discours_haine,ar,كيف يعاقب القانون على خطاب الكراهية؟,Loi 20-05,1.0,1.0,قانون رقم 20-05 مؤرخ في 28 أبريل 2020، الجريدة الرسمية عدد 25 لسنة 2020، ص 4,12.5
+age_vote,fr,À partir de quel âge peut-on voter ?,"Ordonnance 21-01, Loi organique 16-10",4.0,2.0,"Loi n° 63-305 du 20 Août 1963, Journal officiel n° 58 de 1963, p. 826",9.7
+age_vote,ar,ما هو السن القانوني للتصويت في الانتخابات؟,"Ordonnance 21-01, Loi organique 16-10",1.0,2.0,أمر رقم 97-07 مؤرخ في 6 مارس 1997، الجريدة الرسمية عدد 12 لسنة 1997، ص 3,11.8
+assurance_auto,fr,Est-on obligé d'assurer sa voiture ?,Ordonnance 74-15,2.0,1.0,"Ordonnance n° 74-15 du 30 Janvier 1974, Journal officiel n° 15 de 1974, p. 182",12.1
+assurance_auto,ar,هل التأمين على السيارة إجباري؟,Ordonnance 74-15,,,قانون رقم 88-31 مؤرخ في 19 يوليو 1988، الجريدة الرسمية عدد 29 لسنة 1988، ص 1068,12.0
+wakf,fr,Qu'est-ce qu'un bien wakf ?,Loi 91-10,1.0,1.0,"Loi n° 91-10 du 27 Avril 1991, Journal officiel n° 21 de 1991, p. 573",11.6
+wakf,ar,ما هو تعريف الوقف؟,Loi 91-10,1.0,1.0,قانون رقم 91-10 مؤرخ في 27 أبريل 1991، الجريدة الرسمية عدد 21 لسنة 1991، ص 690,13.0
+emploi_handicapes,fr,Les employeurs doivent-ils réserver des postes aux personnes handicapées ?,Loi 02-09,3.0,1.0,"Loi n° 02-09 du 08 Mai 2002, Journal officiel n° 34 de 2002, p. 5",11.3
+emploi_handicapes,ar,هل يلزم المستخدمون بتخصيص مناصب عمل للأشخاص المعوقين؟,Loi 02-09,5.0,2.0,مرسوم تنفيذي رقم 14-214 مؤرخ في 30 يوليو 2014، الجريدة الرسمية عدد 47 لسنة 2014، ص 7,12.6
+scolarite_obligatoire,fr,"L'école est-elle obligatoire, et jusqu'à quel âge ?",Loi 08-04,6.0,3.0,"Ordonnance n° 76-35 du 16 Avril 1976, Journal officiel n° 33 de 1976, p. 428",11.7
+scolarite_obligatoire,ar,هل التعليم إجباري وإلى أي سن؟,Loi 08-04,1.0,1.0,قانون رقم 08-04 مؤرخ في 23 يناير 2008، الجريدة الرسمية عدد 4 لسنة 2008، ص 7,11.7
+blanchiment,fr,Que doivent faire les banques face à une opération financière suspecte ?,Loi 05-01,7.0,6.0,"Règlement n° 05-05 du 15 Décembre 2005, Journal officiel n° 26 de 2006, p. 17",12.3
+blanchiment,ar,ماذا يجب على البنوك فعله عند الاشتباه في عملية مالية؟,Loi 05-01,16.0,2.0,نظام رقم 05-05 مؤرخ في 15 ديسمبر 2005، الجريدة الرسمية عدد 26 لسنة 2006، ص 20,12.6
+etude_impact,fr,Une étude d'impact sur l'environnement est-elle exigée avant un projet industriel ?,Loi 03-10,4.0,2.0,"Décret exécutif n° 21-319 du 14 Août 2021, Journal officiel n° 64 de 2021, p. 6",11.3
+etude_impact,ar,هل تشترط دراسة التأثير على البيئة قبل إنجاز مشروع صناعي؟,Loi 03-10,8.0,7.0,مرسوم تنفيذي رقم 07-145 مؤرخ في 19 مايو 2007، الجريدة الرسمية عدد 34 لسنة 2007، ص 92,13.1

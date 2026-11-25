@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Local caches (models, pip, temp)
+.cache/
+
+# Secrets
+.env
+key.txt
+
+# Data (large, regenerated from the SQL dumps)
+data/
+!data/README.md
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
