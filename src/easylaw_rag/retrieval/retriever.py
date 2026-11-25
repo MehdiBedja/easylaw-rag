@@ -19,6 +19,8 @@ from easylaw_rag.index.store import COLLECTION, client
 # 40 candidates; batches of 8 give identical scores in 13 s. Fewer candidates is faster but changes the top 8.
 RERANK_BATCH = int(os.getenv("RERANK_BATCH", "8"))
 RERANK_CANDIDATES = int(os.getenv("RERANK_CANDIDATES", "40"))
+# Tokens per (question, passage) pair; the CPU deployment lowers it (and the candidates) to stay responsive.
+RERANK_MAX_LENGTH = int(os.getenv("RERANK_MAX_LENGTH", "512"))
 
 _ARABIC_RE = re.compile(r"[\u0621-\u064a]")
 
@@ -120,7 +122,9 @@ class Retriever:
         t2 = time.perf_counter()
         if self.reranker and hits:
             pairs = [[query, embedding_text(h.payload.get("context", ""), h.text)] for h in hits]
-            scores = self.reranker.compute_score(pairs, normalize=True, max_length=512, batch_size=RERANK_BATCH)
+            scores = self.reranker.compute_score(
+                pairs, normalize=True, max_length=RERANK_MAX_LENGTH, batch_size=RERANK_BATCH
+            )
             for h, s in zip(hits, scores if isinstance(scores, list) else [scores]):
                 h.score = float(s)
             hits.sort(key=lambda h: h.score, reverse=True)

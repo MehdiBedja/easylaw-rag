@@ -38,9 +38,22 @@ _cache: OrderedDict[tuple, dict] = OrderedDict()
 
 def _load() -> None:
     try:
+        from easylaw_rag.config import COLLECTIONS
         from easylaw_rag.rag.answer import LegalRAG
 
-        _state["rag"] = LegalRAG()
+        rag = LegalRAG()
+        # In the online demo Qdrant restores its snapshots while the models load: wait for both collections.
+        deadline = time.time() + float(os.getenv("QDRANT_WAIT_SECONDS", "1800"))
+        while True:
+            try:
+                if all(rag.retriever.qc.collection_exists(c) for c in COLLECTIONS.values()):
+                    break
+            except Exception:  # Qdrant not listening yet
+                pass
+            if time.time() > deadline:
+                raise RuntimeError("Qdrant collections not available")
+            time.sleep(5)
+        _state["rag"] = rag
     except Exception as e:  # reported by /api/health instead of silently dying with the thread
         _state["error"] = f"{type(e).__name__}: {e}"
         raise
